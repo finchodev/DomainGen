@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "url-exist": "^3.0.0"
+  }
+}
